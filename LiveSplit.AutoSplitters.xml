@@ -30575,3 +30575,14 @@
         <Website>https://github.com/mostdak1ng/The-Warriors-Autosplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
+<AutoSplitter>
+     <Games>
+       <Game>Diablo II: Resurrected</Game>
+     </Games>
+     <URLs>
+       <URL>https://github.com/SlivenKage/Diablo-II-Resurrected-Auto-Splitter/blob/main/D2R.asl</URL>
+     </URLs>
+     <Type>Script</Type>
+     <Description>Autosplitter and load remover for Diablo II: Resurrected.</Description>
+     <Website>https://github.com/SlivenKage/Diablo-II-Resurrected-Auto-Splitter</Website>
+   </AutoSplitter>
